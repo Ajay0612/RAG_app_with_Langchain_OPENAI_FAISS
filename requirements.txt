@@ -5,3 +5,4 @@ python-dotenv>=1.0.0
 tqdm
 unstructured
 chromadb  # optional if switching vector store
+langchain-community>=0.0.20  # or the latest version you want
