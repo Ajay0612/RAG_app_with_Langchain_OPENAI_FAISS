@@ -23,7 +23,7 @@ The system is organized into three core phases:
 
 ![RAG Architecture](arch.png)
 
-> *Replace the above path with your actual image location.*
+
 
 ---
 
